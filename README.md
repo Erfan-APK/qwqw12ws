@@ -12,7 +12,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 1. Go to yaour repository on GitHuba
 2. Click **Settings** → **Actions** → **General**
 3. Scroll down to **Workflow permissions**
-4. Select **Read and write permissions** and click **Save**
+4. Select **Read and write pesrmissions** and click **Save**
 
 That's it — no tokens or secrets needed.
 
